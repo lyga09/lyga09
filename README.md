@@ -41,7 +41,7 @@
 ### GitHub cтатистика:
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/juljuliks) -->
 
-[whatsapp]: https://wa.me/799516820882
+[whatsapp]: https://wa.me/79516820882
 [telegram]: https://t.me/al_gaev
 [git]: https://github.com/lyga09
 <!---
